@@ -1,6 +1,6 @@
 # System Health Check Script
 
-Simple bash script designed to quickly diagnose the current state of a Linux server.
+Simple bash script designed to quickly diagnose the current state of a Linux server. \
 The script provides an instant overview of key system metrics with visual signaling of critical states.
 
 ## Feature Overview 
@@ -20,12 +20,12 @@ cd bash_scripts
 ```shell
 chmod +x sys_check.sh
 ```
-3. ***Run the script**
+3. **Run the script**
 ```shell
 ./sys_check.sh
 ```
 ## Why I Created This?
-This project was created as a part of my LFS101 (Linux Foundation) course.
+This project was created as a part of my LFS101 (Linux Foundation) course.\
 The goal was to create a tool that would save an administrator time from manually entering multiple diagnostic commands and provide him with a clear report on one click.
 
  
