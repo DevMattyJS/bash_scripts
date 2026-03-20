@@ -11,10 +11,21 @@ The script monitors the following parameters:
 - **Active Processes:** Total number of the processes running on the system.
 
 ## Installation and Launch
-1. Download
-```bash
+1. **Download**
+```shell
 git clone https://github.com/DevMattyJS/bash_scripts.git
 cd bash_scripts
 ```
+2. **Add execute permission**
+```shell
+chmod +x sys_check.sh
+```
+3. ***Run the script**
+```shell
+./sys_check.sh
+```
+## Why I Created This?
+This project was created as a part of my LFS101 (Linux Foundation) course.
+The goal was to create a tool that would save an administrator time from manually entering multiple diagnostic commands and provide him with a clear report on one click.
 
  
