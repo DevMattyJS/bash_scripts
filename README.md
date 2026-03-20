@@ -10,4 +10,11 @@ The script monitors the following parameters:
 - **Disk Space Status:** Checks the root directory with automatic warning (red color) if the fill exceeds 80%.
 - **Active Processes:** Total number of the processes running on the system.
 
+## Installation and Launch
+1. Download
+```bash
+git clone https://github.com/DevMattyJS/bash_scripts.git
+cd bash_scripts
+```
+
  
